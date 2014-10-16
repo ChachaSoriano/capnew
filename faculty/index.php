@@ -105,7 +105,7 @@
 </head>
 <body>
 <div data-role="page" id="index" data-theme="f" data-position="fixed" style="background-image:url('images/bg1.png'); background-size:cover; background-repeat:no-repeat;">
-<div data-role="header" data-theme="b"  align="center" data-position="fixed">
+<div data-role="header" data-theme="b"  align="center" data-position="fixed" style="background-color:#085dad">
  <img src="images/header1.png" width="95%">
 </div>
 		<div class="page-content" align="center" style="color:#fff;">
